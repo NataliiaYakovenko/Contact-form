@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./assets/Copy\).jpg);
+  background-size: 4000px;
+  background-position: left;
+  height: 100vh;
+}
+div {
+  width: 1200px;
+  height: 600px;
+  border: 2px solid rgb(160, 145, 145);
+  background-image: url(./assets/istockphoto-2162849344-612x612.jpg);
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+
+
+}
