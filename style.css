@@ -8,19 +8,33 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(./assets/Copy\).jpg);
-  background-size: 4000px;
-  background-position: left;
+  background-image: url(./assets/istockphoto-2162849344-612x612.jpg);
+  background-size:cover;
   height: 100vh;
 }
-div {
-  width: 1200px;
-  height: 600px;
-  border: 2px solid rgb(160, 145, 145);
-  background-image: url(./assets/istockphoto-2162849344-612x612.jpg);
-  background-size: cover;
-  background-position: right;
-  background-repeat: no-repeat;
+.form {
+  width: 1600px;
+  height: 800px;
+  border: 5px solid rgb(77, 66, 66);
+  box-shadow: 0px 0px 20px black;
+  background-color: transparent;
+  padding: 50px;
+  color:white;
+  font-size: 24px;
 
+}
+h1{
+  font-size: 50px;
+}
+h2{
+  margin: 20px 0 60px 0;
+  font-size: 24px;
+}
 
+.name{
+  margin: 40px 0;
+  
+
+  
+  
 }
